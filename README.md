@@ -1,3 +1,4 @@
-# SQLAlchemy Homework - Surfs Up!
+# SQLAlchemy-Challenge - Surfs Up!
 
-![surfs-up.png](Instructions/Images/surfs-up.png)
+- `sqlalchemy-challenge.ipynb` demonstrates exercises with sqlalchemy
+- Created flask app with api routes
